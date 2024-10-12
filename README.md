@@ -6,6 +6,8 @@
 - Another to make it v6.0,
 - Added one more change to make it v7.0.
 
+- How do one make a fried egg?
+
 [![nginx 1.17.2](https://img.shields.io/badge/nginx-1.17.2-brightgreen.svg?&logo=nginx&logoColor=white&style=for-the-badge)](https://nginx.org/en/CHANGES) [![php 8.3](https://img.shields.io/badge/php--fpm-8.3-blue.svg?&logo=php&logoColor=white&style=for-the-badge)](https://www.php.net/releases/8_3_0.php)
 
 ## Introduction
